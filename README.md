@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on  - [ReCAM](https://competitions.codalab.org/competitions/26153),  [Toxic Spans Detection](https://sites.google.com/view/toxicspans), Choroid/Hard-Exudate Segmentation.
 - 👯 I’m looking to collaborate on Natural Language Processing, Computer Vision, Multi-modal Learning, Medical Image Analysis.
 
-<br>
+<br/>
 
 ![Visitor Count](https://profile-counter.glitch.me/gchhablani/count.svg)
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="chhablani.gunjan@gmail.com | E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>](mailto:chhablani.gunjan@gmail.com)
 [<img align="left" alt="+91 7719900640 | WhatsApp" width="22px"  src ="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg"/>](tel:+91-7719900640)
 
-<br>
+<br/>
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
@@ -50,7 +50,9 @@ Here are some ideas to get you started:
 <img align="left" alt="HTML5" width="26px"  title="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS" width="26px"  title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<br>
+<br/>
+
+---
 
 <img align="left" alt="gchhablani's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gchhablani&show_icons=true&hide_border=true" />
   
