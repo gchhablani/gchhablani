@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Gunjan Chhablani :) <br>
-I currently work as an Applications Engineer at Oracle India Pvt. Ltd.
+I graduated from BITS Pilani in 2020 and I currently work as an Applications Engineer at Oracle India Pvt. Ltd.
 <!--
 **gchhablani/gchhablani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 - 🔭 I’m currently working on  - [ReCAM](https://competitions.codalab.org/competitions/26153),  [Toxic Spans Detection](https://sites.google.com/view/toxicspans), Choroid/Hard-Exudate Segmentation.
 - 👯 I’m looking to collaborate on Natural Language Processing, Computer Vision, Multi-modal Learning, Medical Image Analysis.
 
