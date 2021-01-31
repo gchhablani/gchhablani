@@ -1,4 +1,4 @@
-### Hi there 👋
+### About Me
 
 I am Gunjan Chhablani :) <br>
 I graduated from BITS Pilani in 2020 and I currently work as an Applications Engineer at Oracle India Pvt. Ltd.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+### Personal Interests
 - 🔭 I’m currently working on  - [ReCAM](https://competitions.codalab.org/competitions/26153),  [Toxic Spans Detection](https://sites.google.com/view/toxicspans), Choroid/Hard-Exudate Segmentation.
 - 👯 I’m looking to collaborate on Natural Language Processing, Computer Vision, Multi-modal Learning, Medical Image Analysis.
 
@@ -34,9 +34,11 @@ Here are some ideas to get you started:
 <br>
 
 ### Languages and Tools:
-
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+
+<img align="left" alt="Java EE" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+
 <img align="left" alt="TF" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 <img align="left" alt="PyTorch" width="26px" src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-flame.svg" />
 <img align="left" alt="HuggingFace" width="26px" src="https://github.com/huggingface/transformers/blob/master/docs/source/_static/js/huggingface_logo.svg" />
