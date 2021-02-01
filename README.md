@@ -1,6 +1,4 @@
-### About Me
-
-I am Gunjan Chhablani :) <br>
+### Hi there, I am Gunjan Chhablani :) <br>
 I graduated from BITS Pilani in 2020 and I currently work as an Applications Engineer at Oracle India Pvt. Ltd.
 <!--
 **gchhablani/gchhablani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
