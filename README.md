@@ -22,14 +22,19 @@ Here are some ideas to get you started:
 
 <br/>
 
+### Hit Counter
+
 ![Visitor Count](https://profile-counter.glitch.me/gchhablani/count.svg)
 
 ### Connect with me:
 
-[<img align="left" alt="gchhablani.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://gchhablani.github.io/)
-[<img align="left" alt="gchhablani_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/gchhablani_)
-[<img align="left" alt="chhablani.gunjan@gmail.com | E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>](mailto:chhablani.gunjan@gmail.com)
-[<img align="left" alt="+91 7719900640 | WhatsApp" width="22px"  src ="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg"/>](tel:+91-7719900640)
+[<img align="left" alt="gchhablani.github.io/" title="gchhablani.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://gchhablani.github.io/)
+
+[<img align="left" alt="gchhablani_ | Twitter" title="gchhablani_" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/gchhablani_)
+
+[<img align="left" alt="chhablani.gunjan@gmail.com | E-mail" title="chhablani.gunjan@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>](mailto:chhablani.gunjan@gmail.com)
+
+[<img align="left" title = "+91 7719900640" alt="+91 7719900640 | WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg" />](tel:+917719900640)
 
 <br/>
 
