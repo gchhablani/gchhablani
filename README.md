@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="chhablani.gunjan@gmail.com | E-mail" title="chhablani.gunjan@gmail.com" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>](mailto:chhablani.gunjan@gmail.com)
 
-<a href = "tel:+917719900640"><img align="left" title = "+91 7719900640" alt="+91 7719900640 | WhatsApp" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg" /></a>
-
 <br/>
 
 ### Languages and Tools:
