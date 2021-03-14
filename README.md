@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ### Personal Interests
-- 🔭 I’m currently working on  - [ReCAM](https://competitions.codalab.org/competitions/26153),  [Toxic Spans Detection](https://sites.google.com/view/toxicspans), Choroid/Hard-Exudate Segmentation.
+- 🔭 I’m currently working on  - Choroid/Hard-Exudate Segmentation, Graph Convolution Networks, Diachronic Analysis.
 - 👯 I’m looking to collaborate on Natural Language Processing, Computer Vision, Multi-modal Learning, Medical Image Analysis.
 
 <br/>
