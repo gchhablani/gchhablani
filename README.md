@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ### Personal Interests
-- 🔭 I’m currently working on  - Choroid/Hard-Exudate Segmentation, Graph Convolution Networks, Diachronic Analysis.
+- 🔭 I’m currently working on  - Sentence Representation, Intrinsic Evaluation, Social Intelligence.
 - 👯 I’m looking to collaborate on Natural Language Processing, Computer Vision, Multi-modal Learning, Medical Image Analysis.
 
 <br/>
@@ -57,6 +57,6 @@ Here are some ideas to get you started:
 
 ---
 
-
 <img align="left" alt="gchhablani's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gchhablani&show_icons=true&hide_border=true" />
-  
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gchhablani"/>
