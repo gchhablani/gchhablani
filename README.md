@@ -1,5 +1,5 @@
 ### Hi there, I am Gunjan Chhablani :) <br>
-I graduated from BITS Pilani in 2020 and I currently work as an SWE at Oracle India Pvt. Ltd.
+I graduated from BITS Pilani in 2020 and I am a first year Master's student at Georgia Tech.
 <!--
 **gchhablani/gchhablani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
