@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 
 <!-- ### Personal Interests -->
-<!-- - 🔭 I’m currently working on  - Multimodal Analysis, contributing models to HuggingFace. -->
-<!-- - 👯 I’m looking to collaborate on Natural Language Processing, Computer Vision, Multi-modal Learning
+<!-- - 🔭 I’m currently working on  - Embodied AI. -->
+<!-- - 👯 I’m looking to collaborate on Multimodality, Embodied AI, RL
 <br/> -->
 
 ### Hit Counter
