@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ### Personal Interests
-- 🔭 I’m currently working on  - Embodied AI. -->
+- 🔭 I’m currently working on  - Embodied AI.
 - 👯 I’m looking to collaborate on Multimodality, Embodied AI, RL.
 <br/>
 
